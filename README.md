@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, have a nice day! 👋
+
+Except my repositories, please, check the webpages I created:
+- http://cateringpolska.com.pl 
+- http://reszka.gallery/ 
+- http://madame-chromatique.gallery
+
 
 <!--
 **TheLongDistanceRunner2/TheLongDistanceRunner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
